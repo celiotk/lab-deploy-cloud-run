@@ -2,7 +2,7 @@
 Sistema desenvolvido em Go que recebe um CEP, identifica a cidade correspondente e retorna o clima atual.
 
 ## Passos para execução local
-* Configure o campo `WEATHER_API_KEY` no arquivo `.env` com a sua chave de acesso do [Weatherstack](https://www.weatherapi.com/).
+* Configure o campo `WEATHER_API_KEY` no arquivo `.env` com a sua chave de acesso do [www.weatherapi.com](https://www.weatherapi.com/).
 * Execute o comando:
   ```bash
   docker-compose up -d
